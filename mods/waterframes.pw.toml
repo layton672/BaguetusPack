@@ -1,0 +1,13 @@
+name = "WATERFrAMES: Multimedia Displays"
+filename = "waterframes-FABRIC-mc1.21.1-v2.1.12b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/APOfkg2U/waterframes-FABRIC-mc1.21.1-v2.1.12b.jar"
+hash-format = "sha512"
+hash = "78cd0a8b4f0446b2b9ebf4e24cbd069b486c4f72c62975d1accfa02465f2e44d5e155eda36d8e529e05663f89f583c23115f2bd2b89ee777d15fab096aca2677"
+
+[update]
+[update.modrinth]
+mod-id = "eBzFuVTM"
+version = "APOfkg2U"

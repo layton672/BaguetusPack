@@ -1,0 +1,13 @@
+name = "BaguetusPack"
+author = "Baguette_Deluxe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "245619a32801aae9b8263a8c9fec464d8781c60308b319b7b5880706f42259c8"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.1"

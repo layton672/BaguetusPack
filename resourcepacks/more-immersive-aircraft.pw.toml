@@ -1,0 +1,13 @@
+name = "More Immersive Aircraft"
+filename = "more_immersive_aircraft.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p78Azi6r/versions/uo1bP7OI/more_immersive_aircraft.zip"
+hash-format = "sha512"
+hash = "b2e2a3c6ac57ab45dc2214778aaa2242a712e65453a37f585734930feb5ea06336113e4d1e073e0aa21b6f14e5aae115e20cd2808fae67b5e1884ee87e7cc3a1"
+
+[update]
+[update.modrinth]
+mod-id = "p78Azi6r"
+version = "uo1bP7OI"
