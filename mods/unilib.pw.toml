@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.0.6+1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/3Nxofcc4/UniLib-1.0.6%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "a2d846dc34839c3743687581020c27adca7bfe6789fca2eb5d9f486e4b376be60bcea141fed56950cbfc99a0987eac071827d15dbfb3af9d204517433e6790bd"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "3Nxofcc4"

@@ -141,6 +141,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "a15958b1f1d021018dd0df0c294232d173a9a0097ccf6719384897a7862cb28d"
+metafile = true
+
+[[files]]
 file = "mods/creative-fly.pw.toml"
 hash = "5dae466ba64f73290786a358bff2be4df3c53a01130c53bca5234c9c7ff36d4b"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "db3fa4102f18a949deabf4260b695a068552ed3f43b40a5dbb9ca7cb71a8bd6c"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "5200b85159d7ceff7799d42b99928fc83551792a27a3a7b06a2832ce2fbc8563"
 metafile = true
 
 [[files]]
@@ -486,6 +496,11 @@ hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
 metafile = true
 
 [[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "ab4e9328270178b84b5dc8cc59f903a2ed3d155b1fb051e89849c4967654b734"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9ad63ddb4586e2650aca101712f9d0f5efa14e5959965cb6e6fc6ad300e8c3ee"
 metafile = true
@@ -618,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "5835ba45355b9026676749e7d45d9ce12762f9513444982aebe5c2d74ad525ff"
 metafile = true
 
 [[files]]
