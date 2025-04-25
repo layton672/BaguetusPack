@@ -1,0 +1,13 @@
+name = " Invisible Item Frames"
+filename = "Invisible-Item-Frames-V5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gfr4403r/versions/KtUPuLD4/Invisible-Item-Frames-V5.zip"
+hash-format = "sha512"
+hash = "eab63676c0941376cb7f20abfdb37aef137cf43e19779af2f2d32aa31f41d7d2d02a3860eb55acbd284ce55912e05d7534190a3c873937fb315c33bdc5ebaf41"
+
+[update]
+[update.modrinth]
+mod-id = "gfr4403r"
+version = "KtUPuLD4"

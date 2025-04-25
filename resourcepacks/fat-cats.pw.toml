@@ -1,0 +1,13 @@
+name = "Fat Cats"
+filename = "[1.20-1.20.1] Fat Cats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KcrNhl8w/versions/53CKi5WO/%5B1.20-1.20.1%5D%20Fat%20Cats.zip"
+hash-format = "sha512"
+hash = "b247423f9a8d7c328cf0706ed58b201a53a6f722aa4d761cf5420e0b58e45da910e93652e6e4eca0cf0b9f3c41aff37570af033ac6b1689da29077842af38bdd"
+
+[update]
+[update.modrinth]
+mod-id = "KcrNhl8w"
+version = "53CKi5WO"

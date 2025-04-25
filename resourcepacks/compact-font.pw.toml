@@ -1,0 +1,8 @@
+name = "Compact Font"
+filename = "compact-font.zip"
+side = "client"
+
+[download]
+url = "https://s3.amazonaws.com/static.planetminecraft.com/files/resource_media/texture/compact-font.zip"
+hash-format = "sha256"
+hash = "0F6366D0A9199D08AE449EA2520091C87325683A13CF890AF7516763B860F207"
