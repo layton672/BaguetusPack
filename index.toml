@@ -671,11 +671,6 @@ hash = "f6058827d13219b89e1f2a15ce02ebf5bc86482e4b6971520627c32232545577"
 metafile = true
 
 [[files]]
-file = "mods/veinminer.pw.toml"
-hash = "213860e0c0161f60fba897f526d92ca703208dd26b636e6eaadb2c715d8a2f58"
-metafile = true
-
-[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "3cfc1070e53b96ec42fadea40770178eb4a2fdb50246879f570b164c2eb7b197"
 metafile = true
