@@ -311,11 +311,6 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "b6d4407a5a5b9c16636298a0d38020b0b8ecdc11cee069d4f8678dad3be0ecb3"
-metafile = true
-
-[[files]]
 file = "mods/hit-feedback.pw.toml"
 hash = "d97ab7d106d2e446e0020ba5ab03549b499f0bbcc6dd3191f8064c06cc642ea6"
 metafile = true
@@ -348,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
+metafile = true
+
+[[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "bf76c91bc8fdea48f9361c022f9d2535400ff38e4feff5b89e4f40e2b02637db"
 metafile = true
 
 [[files]]
