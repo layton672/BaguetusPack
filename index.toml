@@ -741,11 +741,6 @@ hash = "74cb568de0a0abc18beadf820a2c10289a26b7340a1268afd41b314312f14c31"
 metafile = true
 
 [[files]]
-file = "resourcepacks/compact-font.pw.toml"
-hash = "d3c7669622057aab4e02bb7fc0a0c1d8e16c8da5d3547e10faa30540babdcb17"
-metafile = true
-
-[[files]]
 file = "resourcepacks/default-hd-512x.pw.toml"
 hash = "adcb108e9a1c1e62c53c41a304da9584e2f0d497858698b870924aa3274f19d5"
 metafile = true
