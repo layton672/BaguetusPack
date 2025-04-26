@@ -6,6 +6,11 @@ hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f2a3d2af3f3ec8ed1bcdd436a76d89ec9655f20809c2274cb1be5392bb3e904e"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
@@ -291,8 +301,18 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "b6d4407a5a5b9c16636298a0d38020b0b8ecdc11cee069d4f8678dad3be0ecb3"
 metafile = true
 
 [[files]]
@@ -461,6 +481,11 @@ hash = "d2eea47786f9d718d42fe1a4dd28c149bc5c39d6efea98b1c6dfee7dbf87f669"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "bddfb122f9892e16a6dbf17de7483dda5be5ac80b133363bcce3ea8122fa5d50"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
@@ -536,6 +561,16 @@ hash = "dc62cebeadfee1dd6bfbebbc2b73b99eda7823ac56f29e58580fbfe65b2691f0"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "3070e7a9aa7244e36fdb27a904ac7433ed4d119336977d1837f486f60724a9b1"
 metafile = true
@@ -583,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "e56e60b6dabffd4b2332ed19c62e6455b7d78a9fb58c810d2185739575c9448a"
 metafile = true
 
 [[files]]
@@ -661,6 +701,11 @@ hash = "213860e0c0161f60fba897f526d92ca703208dd26b636e6eaadb2c715d8a2f58"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "3cfc1070e53b96ec42fadea40770178eb4a2fdb50246879f570b164c2eb7b197"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "c28f21e5e16aa98001e982453e1b2b8f99302497c645bca4a02a708cfc16577d"
 metafile = true
@@ -703,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "9509a3f9d500e733aa8a0271f97a437799437f140383de4ca8ae44c1846df99c"
 metafile = true
 
 [[files]]
