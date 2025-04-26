@@ -346,11 +346,6 @@ hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
 metafile = true
 
 [[files]]
-file = "mods/incapacitated.pw.toml"
-hash = "bf76c91bc8fdea48f9361c022f9d2535400ff38e4feff5b89e4f40e2b02637db"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -761,8 +756,18 @@ hash = "9890d05cdd009ea8e25cc2fa2288c46bd65756fe58834ab38665357dce48394a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemon-interface.pw.toml"
+hash = "74cb568de0a0abc18beadf820a2c10289a26b7340a1268afd41b314312f14c31"
+metafile = true
+
+[[files]]
 file = "resourcepacks/compact-font.pw.toml"
 hash = "d3c7669622057aab4e02bb7fc0a0c1d8e16c8da5d3547e10faa30540babdcb17"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-hd-512x.pw.toml"
+hash = "adcb108e9a1c1e62c53c41a304da9584e2f0d497858698b870924aa3274f19d5"
 metafile = true
 
 [[files]]
@@ -778,6 +783,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fat-cats.pw.toml"
 hash = "229648947edebff9aabf1016850efb0149dcd448d307d3609892849f188c76c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
 metafile = true
 
 [[files]]
@@ -803,6 +813,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/terralith-lang.pw.toml"
 hash = "b24391701edf17048db678bb2ab609e7af6096933a0d0ff4c4280a8787985b6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
 
 [[files]]
