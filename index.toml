@@ -6,11 +6,6 @@ hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f2a3d2af3f3ec8ed1bcdd436a76d89ec9655f20809c2274cb1be5392bb3e904e"
 metafile = true
@@ -73,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
-metafile = true
-
-[[files]]
-file = "mods/botarium.pw.toml"
-hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
@@ -301,11 +291,6 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
@@ -476,11 +461,6 @@ hash = "d2eea47786f9d718d42fe1a4dd28c149bc5c39d6efea98b1c6dfee7dbf87f669"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "bddfb122f9892e16a6dbf17de7483dda5be5ac80b133363bcce3ea8122fa5d50"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
@@ -553,16 +533,6 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "dc62cebeadfee1dd6bfbebbc2b73b99eda7823ac56f29e58580fbfe65b2691f0"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -776,6 +746,11 @@ hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "88496e670b35be0585d76f593cad1e59e76e7e9c4a014d5e8e4ce8c8b8e29986"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
@@ -796,6 +771,11 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "29a7b3eb5b9bfd6ddaa5efd808dcbe4c0eb1428b57f03cd700fcadd1c552edfb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/invisible-item-frames.pw.toml"
 hash = "1ef80400172d1f80cbfb81a6546413f11fc370e2282e72bca91a4dae7c3a3bbb"
 metafile = true
@@ -803,6 +783,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/overlays.pw.toml"
 hash = "db362cc15a6a6cc6d71bcf284e2a2d3649aacb39c1f90598986dddca727f1b76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
 metafile = true
 
 [[files]]
