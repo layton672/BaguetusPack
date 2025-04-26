@@ -1,12 +1,12 @@
 name = "Baguetus Place"
 author = "Baguette Deluxe"
-version = "1.1.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d29b115903aeb0efa8bc77cc6430969908548a1fab6390eed3fac91d58d81c71"
+hash = "422d0d528264a2651026f8342b25e4f0c53c1d8b7419c79a686f3e1ff4f86a29"
 
 [versions]
 fabric = "0.16.14"

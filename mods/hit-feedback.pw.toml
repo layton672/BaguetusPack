@@ -1,0 +1,13 @@
+name = "Hit Feedback"
+filename = "HitFeedback-1.20.1-1.1.8-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKPOiJ04/versions/MdOmd0tQ/HitFeedback-1.20.1-1.1.8-fabric.jar"
+hash-format = "sha512"
+hash = "f91d52e3b7ba56b3dea6897590ccd71a9076b5bafda94a8799107d9dc09b5b9623377541e297bc1bf7e80047bd29e1a488e6ce0559b8a92a2b86be906a4815eb"
+
+[update]
+[update.modrinth]
+mod-id = "NKPOiJ04"
+version = "MdOmd0tQ"
