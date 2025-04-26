@@ -486,6 +486,11 @@ hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
 metafile = true
 
 [[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "36940c04cf3f98987ecd70cf582f018ab27ee6b023ad957c4f966a6024d4ecb3"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
