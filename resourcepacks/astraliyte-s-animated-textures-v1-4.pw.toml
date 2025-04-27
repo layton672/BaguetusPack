@@ -1,8 +1,8 @@
-name = "Astraliyte's Animated Textures"
+name = "astraliyte-s-animated-textures"
 filename = "astraliyte-s-animated-textures-v1-4.zip"
 side = "client"
 
 [download]
-url = "https://static.planetminecraft.com/files/resource_media/texture/astraliyte-s-animated-textures-v1-4.zip"
+url = "https://dl4.cdn9mc.com/index.php?act=download&id=1664529861&hash=680e1056d1d48"
 hash-format = "sha256"
-hash = "3978904ECCD49E7F9F8CFD634EEA4C3849FF06256AEE6CF9712BC42DDCFFB428"
+hash = "83542F72795CEF1CF1DDBE068F0A4C21D58EA6F94166312BAD34A3647CEC9FAD"

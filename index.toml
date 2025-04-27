@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/astraliyte-s-animated-textures-v1-4.pw.toml"
-hash = "9890d05cdd009ea8e25cc2fa2288c46bd65756fe58834ab38665357dce48394a"
+hash = "04bba79d65d164864b0e51f7481cb77d7d859fe242fb133c15ad2df367ee6b63"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
+hash = "b81092e2fc3f7c7071c4edc9e8392a6f0225c240ad7fd7e9a0aefec00e195a4d"
 metafile = true
 
 [[files]]
