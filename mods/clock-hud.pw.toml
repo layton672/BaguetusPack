@@ -1,0 +1,13 @@
+name = "Clock HUD"
+filename = "clock_hud-2.1.0-mc1.20.1-build.67.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/58HcosC7/versions/4cxgYTnG/clock_hud-2.1.0-mc1.20.1-build.67.jar"
+hash-format = "sha512"
+hash = "ce9990eb75afaf1eb2d28087b4ee05fdd1c98efcd17de7f79d99f88b7f1eb2fcb671a250b66440d92930d1a1400dd0c65db67143bdbc9c6790cfe72f2a043f1a"
+
+[update]
+[update.modrinth]
+mod-id = "58HcosC7"
+version = "4cxgYTnG"
